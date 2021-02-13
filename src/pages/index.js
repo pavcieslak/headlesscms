@@ -12,7 +12,7 @@ const IndexPage = () => (
     <h2>Sub header goes here</h2>
     <p>Just playing around with Gatsby.</p>
     <p>Let's finally learn how a headless CMS actually works :)</p>
-    <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
+    <div style={{ maxWidth: `500px`, marginBottom: `1.45rem` }}>
       <Image />
     </div>
     <Link to="/page-2/">Visit page 2</Link> <br />
