@@ -8,7 +8,7 @@ import SEO from "../components/seo"
 const IndexPage = () => (
   <Layout>
     <SEO title="Home" />
-    <h1>Hello from Lucmedia</h1>
+    <h1>Hello from Pav.</h1>
     <h2>Sub header goes here</h2>
     <p>Just playing around with Gatsby.</p>
     <p>Let's finally learn how a headless CMS actually works :)</p>
